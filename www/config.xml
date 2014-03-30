@@ -2,7 +2,7 @@
 <widget id="com.example.simple_reader" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>SimpleReader</name>
     <description>
-        Hello World sample application that responds to the deviceready event.
+        The most simple app, displaying static text. More functionality to come. V1.0.0
     </description>
     <author email="support@phonegap.com" href="http://phonegap.com">
         PhoneGap Team
